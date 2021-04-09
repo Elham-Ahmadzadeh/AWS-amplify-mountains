@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 deployed on AWS https://main.dddhqaxhkulq5.amplifyapp.com/
-a you tube tutorial by  
+a youtube tutorial by  
 Sanjeev Thiyagarajan
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
